@@ -17,3 +17,8 @@ target_Size = 150
 mode = 'categorical'
 
 Epochs = 7
+
+Accuracy for Validation data 
+Accuracy Score = 96%
+
+![image](https://user-images.githubusercontent.com/48939864/183424847-54f8d3af-6eae-481c-a842-87ef90ef996b.png)
